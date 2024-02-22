@@ -1,0 +1,34 @@
+.container {
+    height: 100vh;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(121, 121, 142);
+
+}
+
+.input {
+    padding-top: 100px;
+    padding-left: 100px;
+    height: 50%;
+    width: 40%;
+    border: 2px solid;
+    background-color: rgb(65, 76, 76);
+    border: 3px solid rgb(1, 1, 16);
+}
+
+button {
+
+    background-color: rgb(2, 2, 32);
+    color: white;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+img {
+    height: 90%;
+}
